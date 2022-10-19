@@ -1,0 +1,9 @@
+.logo {
+    height: 120px;
+
+}
+
+.breadcrumb-section {
+    background-image: linear-gradient(black, black), url(../img/Penn.png);
+}
+
